@@ -49,7 +49,7 @@ This project is open for contributions. If you find any issues or have any featu
 
 ## Authors
 
-- Amay Jain(
+- Amay Jain(https://github.com/amayyjain25)
 
 
 
