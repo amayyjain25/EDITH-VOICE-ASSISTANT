@@ -88,7 +88,10 @@ def spotify():
         sleep(11)
         speak(f"Playing{song} music on spotify")
         print("Playing music on spotify")
+        #FOR CHROME  
         pyautogui.click(x=900, y=320)
+        #IF YOU ARE USING MICROSOFT EDGE
+        #TRY- pyautogui.click(x=965, y=329)
 
         quit()
 
