@@ -1,8 +1,6 @@
 # EDITH-VOICE-ASSISTANT
 
-Sure! Here's a sample README file that you can use as a starting point for your voice assistant project:
 
-# Voice Assistant using Python
 
 This project implements a voice assistant using Python. The voice assistant is capable of recognizing user voice commands, processing them, and executing corresponding actions. The project is built using various technologies such as speech recognition, natural language processing, and text-to-speech conversion.
 
